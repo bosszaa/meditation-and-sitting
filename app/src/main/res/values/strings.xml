@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meditation and Sitting</string>
+    <string name="drawer_open">Drawer_open</string>
+    <string name="drawer_close">Drawer  Close</string>
+</resources>

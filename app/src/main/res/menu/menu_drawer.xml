@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/one"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่หนึ่ง"/>
+        <item
+            android:id="@+id/two"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่สอง"/>
+        <item
+            android:id="@+id/three"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่สาม"/>
+        <item
+            android:id="@+id/four"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่สี่"/>
+        <item
+            android:id="@+id/five"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่ห้า"/>
+        <item
+            android:id="@+id/six"
+            android:icon="@drawable/ic_menu_smile"
+            android:title="ท่าที่หก"/>
+    </group>
+
+</menu>
