@@ -18,7 +18,13 @@
         </activity>
         <activity android:name=".Main2Activity" />
         <activity android:name=".MainMeditationActivity" />
-        <activity android:name=".ManualActivity"></activity>
+        <activity android:name=".ManualActivity" />
+        <activity android:name=".pageoneActivity" />
+        <activity android:name=".page2Activity" />
+        <activity android:name=".page3Activity" />
+        <activity android:name=".page4Activity" />
+        <activity android:name=".page5Activity" />
+        <activity android:name=".page6Activity"></activity>
     </application>
 
 </manifest>
